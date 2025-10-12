@@ -3,9 +3,6 @@
 
 ## Hi there 👋, I am Guru Sabarish, A passionate web app developer.
 
-![](https://komarev.com/ghpvc/?username=gurusabarish)
-
-
 
  #### You can find me on:
 [Linkedin](https://www.linkedin.com/in/gurusabarish) - [Instagram](https://instagram.com/gurusabarishh) - [Twitter](https://twitter.com/gurusabarishh)
